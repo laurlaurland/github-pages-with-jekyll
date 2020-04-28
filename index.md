@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Reality Computing
 
-I'm glad you are here. I plan to talk about ...
+I have no idea what I'm doing
